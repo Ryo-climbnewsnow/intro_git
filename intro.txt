@@ -1,5 +1,4 @@
-—ûK
-•¶Í‚ğ’Ç‰Á‚µ‚Ü‚µ‚½
+lesson
 Egit add
 Egit commit
 Egit remove
